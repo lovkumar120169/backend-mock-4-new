@@ -1,6 +1,7 @@
 {
     "question": [
         {
+            "id":1,
             "userAvatar": "http://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-Image.png",
             "username": "JohnDoe123",
             "questionTitle": "How to sort an array in JavaScript?",
@@ -31,6 +32,7 @@
             ]
         },
         {
+            "id":2,
             "userAvatar": "http://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-Image.png",
             "username": "Luv",
             "questionTitle": "How to sort an array in JavaScript?",
@@ -61,5 +63,10 @@
             ]
         }
     ],
-    "user":[]
+    "user":[{
+        "id":1,
+        "name":"luv",
+        "email":"lov@gmail.com",
+        "password":"12345"
+    }]
 }
